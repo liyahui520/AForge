@@ -1,0 +1,7 @@
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Imaging.Formats.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Imaging.Formats.pdb
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Imaging.Formats.xml
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Imaging.Formats\obj\Debug\Imaging.Formats.csproj.AssemblyReference.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Imaging.Formats\obj\Debug\Imaging.Formats.csproj.CoreCompileInputs.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Imaging.Formats\obj\Debug\AForge.Imaging.Formats.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Imaging.Formats\obj\Debug\AForge.Imaging.Formats.pdb

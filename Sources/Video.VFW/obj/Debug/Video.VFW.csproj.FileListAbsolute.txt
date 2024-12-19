@@ -1,0 +1,8 @@
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Video.VFW.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Video.VFW.pdb
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Video.VFW.xml
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Video.VFW\obj\Debug\Video.VFW.csproj.AssemblyReference.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Video.VFW\obj\Debug\Video.VFW.csproj.CoreCompileInputs.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Video.VFW\obj\Debug\Video.VFW.csproj.Up2Date
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Video.VFW\obj\Debug\AForge.Video.VFW.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Video.VFW\obj\Debug\AForge.Video.VFW.pdb

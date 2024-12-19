@@ -1,0 +1,7 @@
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.pdb
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.xml
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Core\obj\Debug\AForge.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Core\obj\Debug\AForge.pdb

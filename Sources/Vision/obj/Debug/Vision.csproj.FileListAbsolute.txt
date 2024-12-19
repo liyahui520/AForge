@@ -1,0 +1,8 @@
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Vision.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Vision.pdb
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Vision.xml
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Vision\obj\Debug\Vision.csproj.AssemblyReference.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Vision\obj\Debug\Vision.csproj.CoreCompileInputs.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Vision\obj\Debug\Vision.csproj.Up2Date
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Vision\obj\Debug\AForge.Vision.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Vision\obj\Debug\AForge.Vision.pdb

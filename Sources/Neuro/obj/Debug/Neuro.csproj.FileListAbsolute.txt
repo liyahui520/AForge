@@ -1,0 +1,8 @@
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Neuro\obj\Debug\Neuro.csproj.AssemblyReference.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Neuro\obj\Debug\Neuro.csproj.CoreCompileInputs.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Neuro.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Neuro.pdb
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Neuro.xml
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Neuro\obj\Debug\Neuro.csproj.Up2Date
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Neuro\obj\Debug\AForge.Neuro.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Neuro\obj\Debug\AForge.Neuro.pdb

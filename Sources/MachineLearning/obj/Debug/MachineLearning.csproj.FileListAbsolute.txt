@@ -1,0 +1,7 @@
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.MachineLearning.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.MachineLearning.pdb
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.MachineLearning.xml
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\MachineLearning\obj\Debug\MachineLearning.csproj.AssemblyReference.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\MachineLearning\obj\Debug\MachineLearning.csproj.CoreCompileInputs.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\MachineLearning\obj\Debug\AForge.MachineLearning.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\MachineLearning\obj\Debug\AForge.MachineLearning.pdb

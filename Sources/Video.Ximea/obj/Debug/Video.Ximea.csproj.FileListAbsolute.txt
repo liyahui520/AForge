@@ -1,0 +1,7 @@
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Video.Ximea.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Video.Ximea.pdb
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Video.Ximea\obj\Debug\Video.Ximea.csproj.AssemblyReference.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Video.Ximea\obj\Debug\Video.Ximea.csproj.CoreCompileInputs.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Video.Ximea\obj\Debug\Video.Xi.F9061738.Up2Date
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Video.Ximea\obj\Debug\AForge.Video.Ximea.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Video.Ximea\obj\Debug\AForge.Video.Ximea.pdb

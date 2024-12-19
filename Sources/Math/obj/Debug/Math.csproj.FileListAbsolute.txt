@@ -1,0 +1,8 @@
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Math.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Math.pdb
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Math.xml
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Math\obj\Debug\Math.csproj.AssemblyReference.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Math\obj\Debug\Math.csproj.Up2Date
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Math\obj\Debug\AForge.Math.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Math\obj\Debug\AForge.Math.pdb

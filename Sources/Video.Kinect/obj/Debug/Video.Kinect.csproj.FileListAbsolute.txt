@@ -1,0 +1,8 @@
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Video.Kinect.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Video.Kinect.pdb
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Video.Kinect.xml
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Video.Kinect\obj\Debug\Video.Kinect.csproj.AssemblyReference.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Video.Kinect\obj\Debug\Video.Kinect.csproj.CoreCompileInputs.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Video.Kinect\obj\Debug\Video.Ki.D8D10E46.Up2Date
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Video.Kinect\obj\Debug\AForge.Video.Kinect.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Video.Kinect\obj\Debug\AForge.Video.Kinect.pdb

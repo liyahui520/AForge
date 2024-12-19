@@ -1,0 +1,8 @@
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Fuzzy.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Fuzzy.pdb
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Fuzzy.xml
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Fuzzy\obj\Debug\Fuzzy.csproj.AssemblyReference.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Fuzzy\obj\Debug\Fuzzy.csproj.CoreCompileInputs.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Fuzzy\obj\Debug\Fuzzy.csproj.Up2Date
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Fuzzy\obj\Debug\AForge.Fuzzy.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Fuzzy\obj\Debug\AForge.Fuzzy.pdb

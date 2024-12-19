@@ -1,0 +1,8 @@
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Genetic.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Genetic.pdb
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Genetic.xml
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Genetic\obj\Debug\Genetic.csproj.AssemblyReference.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Genetic\obj\Debug\Genetic.csproj.CoreCompileInputs.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Genetic\obj\Debug\Genetic.csproj.Up2Date
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Genetic\obj\Debug\AForge.Genetic.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Genetic\obj\Debug\AForge.Genetic.pdb

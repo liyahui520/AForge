@@ -1,0 +1,8 @@
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Imaging.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Imaging.pdb
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Release\AForge.Imaging.xml
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Imaging\obj\Debug\Imaging.csproj.AssemblyReference.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Imaging\obj\Debug\Imaging.csproj.CoreCompileInputs.cache
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Imaging\obj\Debug\Imaging.csproj.Up2Date
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Imaging\obj\Debug\AForge.Imaging.dll
+D:\Works\Wpf\AForge.NET Framework-2.2.5\Sources\Imaging\obj\Debug\AForge.Imaging.pdb
